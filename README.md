@@ -4,11 +4,6 @@
 
 A tutorial for building a beautiful Markdown editor
 
-## Sponsor
-
-[![Inkdrop](./doc/inkdrop-logo.png)](https://www.inkdrop.app/)  
-A cross-platform Markdown note-taking app
-
 ## Stack
 
 - [Electron](https://www.electronjs.org/) - A framework for building cross-platform desktop apps using HTML, JS, and CSS
@@ -103,7 +98,7 @@ When running building, environment variables are loaded from the following files
 
 ## Author
 
-Takuya Matsuyama ([@craftzdog](https://github.com/craftzdog))
+James Nguyen ([@craftzdog](linktr.ee/devjamesnguyen))
 
 
 [vite]: https://github.com/vitejs/vite/

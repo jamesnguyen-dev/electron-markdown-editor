@@ -3,7 +3,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:jamesnguyen-dev/electron-markdown-editor.git"
+    "url": "git+ssh://git@github.com:jamesnguyen-dev/electron-markdown-editor.git`"
   },
   "keywords": [
     "Markdown",
